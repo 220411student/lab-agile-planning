@@ -1,6 +1,6 @@
 ---
 name: user story
-about: this is tamplate
+about: this is template
 title: ''
 labels: ''
 assignees: ''
